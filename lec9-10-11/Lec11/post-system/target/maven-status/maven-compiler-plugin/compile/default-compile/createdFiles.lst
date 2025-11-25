@@ -1,0 +1,14 @@
+com\spring\service\UserService.class
+com\spring\dto\UserDto.class
+com\example\postsystem\PostSystemApplication.class
+com\spring\dao\UserDao.class
+com\spring\dto\PostDto.class
+com\spring\dto\SimpleUserDto.class
+com\spring\model\Post.class
+com\spring\controller\UserController.class
+com\spring\dto\PostWithUserDto.class
+com\spring\controller\PostController.class
+com\spring\service\PostService.class
+com\spring\model\User.class
+com\spring\dao\PostDao.class
+com\spring\dto\UserWithPostsDto.class
